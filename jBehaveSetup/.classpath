@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-18">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Joshua/Downloads/jbehave-core JAR 3.5.4 with all dependencies/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua/Downloads/jbehave-core JAR 3.5.4 with all dependencies/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua/Downloads/jbehave-core JAR 3.5.4 with all dependencies/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua/Downloads/jbehave-core JAR 3.5.4 with all dependencies/freemarker-2.3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua/Downloads/jbehave-core JAR 3.5.4 with all dependencies/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua/Downloads/jbehave-core JAR 3.5.4 with all dependencies/hamcrest-integration-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua/Downloads/jbehave-core JAR 3.5.4 with all dependencies/hamcrest-library-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua/Downloads/jbehave-core JAR 3.5.4 with all dependencies/jbehave-core-3.5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua/Downloads/jbehave-core JAR 3.5.4 with all dependencies/junit-dep-4.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua/Downloads/jbehave-core JAR 3.5.4 with all dependencies/paranamer-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua/Downloads/jbehave-core JAR 3.5.4 with all dependencies/plexus-utils-2.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua/Downloads/jbehave-core JAR 3.5.4 with all dependencies/xpp3_min-1.1.4c.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Joshua/Downloads/jbehave-core JAR 3.5.4 with all dependencies/xstream-1.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
